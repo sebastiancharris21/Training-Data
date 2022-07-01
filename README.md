@@ -1,2 +1,2 @@
 # Training-Data
- Datos de entrenamiento de uan CNN
+ Datos de entrenamiento de una CNN
